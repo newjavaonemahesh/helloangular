@@ -1,0 +1,8 @@
+{
+    "name": "helloangularjs",
+    "version": "1.0.0",
+    "description": "AngularJS 1.x app",
+    "dependencies": {
+      "angular": "1.8.3"
+    }
+  }

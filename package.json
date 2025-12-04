@@ -3,5 +3,8 @@
     "version": "1.0.0",
     "dependencies": {
       "angular": "1.8.3"
+    },
+    "scripts": {
+      "start": "echo 'No server needed for AngularJS 1.x' && exit 0"
     }
   }
